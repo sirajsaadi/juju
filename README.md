@@ -1,1 +1,1 @@
-# juju
+# Juju charms
